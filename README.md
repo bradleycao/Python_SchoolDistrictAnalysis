@@ -12,7 +12,7 @@ However, after receiving the initial analysis results, the school noticed there 
 - Data Source: schools_complete.csv, students_complete.csv
 - Analysis File Name: PyCitySchools_Challenge
 
-## Scholl District Analysis Results
+## School District Analysis Results
 
 - How is the district summary affected?
     - Overall, the metrics for the district summary were decreased slightly, around 0.2% for each metric. Specifically, the **% Passing Math, % Passing Reading, and % Overall Passing** were decreased by **0.2%, 0.1%, and 0.3%** respectively.
